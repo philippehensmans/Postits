@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/postits/', // Remplacez par le nom de votre repo
+  base: '/tableau-postits/', // Le nom de votre repo
 })
